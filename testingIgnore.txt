@@ -1,1 +1,2 @@
 Testiing ignore option in git
+Sonme changes
